@@ -1,0 +1,39 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "London, England",
+        "social": {
+            "twitter_handle": "xPR0PH3Tx",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "",
+            "addr": "",
+            "city": "London",
+            "country": "England",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "",
+            "server": "",
+            "company": "..."
+        }
+    },
+    "my-pool-ids": {
+        "0": "5693aa7edfe81d12c9062bbe7b7c0b314b9665c6b3cd426152108347",
+    },
+    "when-satured-then-recommend": {
+        "0": "",
+        "1": ""
+    },
+    "telegram-admin-handle": {
+        "0": ""
+    }
+}
