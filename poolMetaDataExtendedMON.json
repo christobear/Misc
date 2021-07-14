@@ -1,0 +1,24 @@
+
+{
+    "info": {
+        "url_png_icon_64x64": "https://git.io/Jc9vw",
+        "url_png_logo": "https://git.io/Jc9vM",
+        "location": "Selangor, Malaysia",
+        "social": {
+            "twitter_handle": ""
+        },
+        "company": {
+            "city": "Selangor",
+            "country": "Malaysia"
+        },
+        "about": {
+            "me": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "ca485536f114368e1cd0de97a6411a8e3aa6f751ab9fde958498ccab"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
