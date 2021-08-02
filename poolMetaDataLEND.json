@@ -2,5 +2,6 @@
 "name": "LEND pool",
 "description": "LEND pool is supporting Cardano Decentralization.",
 "ticker": "LEND",
-"homepage": "https://adapools.org"
+"homepage": "https://adapools.org",
+"adapools": "7a5ee02a4b69e73d04ac9aa7a52ac747"
 }
