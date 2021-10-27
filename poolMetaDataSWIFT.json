@@ -2,6 +2,5 @@
 "name": "Swift",
 "description": "Swift stake pool supports Cardano Decentralization",
 "ticker": "SWIFT",
-"homepage": "https://adapools.org",
-"adapools": "8d8642226f6dcd163c6e3378ad8cb7f2"
+"homepage": "https://adapools.org"
 }
