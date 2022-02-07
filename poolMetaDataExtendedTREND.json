@@ -1,0 +1,19 @@
+
+{
+    "info": {
+        "location": "Australia",
+        "company": {
+            "city": "",
+            "country": "Australia"
+        },
+        "about": {
+            "me": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "a75b248526c90b43c08f42bea99d3de266cca5874147e0a74bb4cd97"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
