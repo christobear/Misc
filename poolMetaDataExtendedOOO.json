@@ -1,0 +1,21 @@
+{
+    "info": {
+        "location": "China",
+        "social": {
+            "twitter_handle": ""
+        },
+        "company": {
+            "city": "HK",
+            "country": "China"
+        },
+        "about": {
+            "me": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": "629a028f26afbc3302fe49dce2046bc3c0c30e2c6120cc87d39281cd"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
