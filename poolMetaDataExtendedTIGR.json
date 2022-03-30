@@ -1,0 +1,23 @@
+{
+    "info": {
+        "url_png_icon_64x64": "https://raw.githubusercontent.com/christobear/Misc/main/Images/TIGR64.png",
+        "url_png_logo": "https://raw.githubusercontent.com/christobear/Misc/main/Images/TIGR.png",
+        "location": "New York, USA",
+        "social": {
+            "twitter_handle": ""
+        },
+        "company": {
+            "city": "New York",
+            "country": "USA"
+        },
+        "about": {
+            "me": "TIGR is supporting cardano decentralization"
+        }
+    },
+    "my-pool-ids": {
+        "0": "726f46e3179898154ef9cfbd0fdf5f0bf70b53aabcbc642f05e8b3d7"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
