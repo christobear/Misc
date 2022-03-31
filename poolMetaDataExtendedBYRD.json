@@ -1,0 +1,20 @@
+{
+    "info": {
+        "location": "USA",
+        "social": {
+            "twitter_handle": ""
+        },
+        "company": {
+            "country": "USA"
+        },
+        "about": {
+            "me": "BYRD Pool is supporting cardano decentralization"
+        }
+    },
+    "my-pool-ids": {
+        "0": "4fe880d45cd6170400e70adc79591d8562cbfee07e25e506422da0d7"
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
