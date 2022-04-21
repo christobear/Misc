@@ -1,8 +1,13 @@
 {
     "info": {
-        "location": "Chile",
+        "location": "Santiago, Chile",
         "social": {
             "facebook_handle": "Cardano.LEND.Pool"
+        },
+        "company": {
+            "name": "Lend Pool",
+            "city": "Santiago",
+            "country": "Chile"
         },
         "about": {
             "me": "We are the first Cardano pool 'staking' 100% of our rewards on Kiva. We keep all our operating fees + delegation rewards for 3 months on Kiva.org for lending to entrepreneurs, unbanked people and those in need, while you earn consistent staking rewards."
