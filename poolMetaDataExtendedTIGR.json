@@ -2,12 +2,12 @@
     "info": {
         "url_png_icon_64x64": "https://raw.githubusercontent.com/christobear/Misc/main/Images/TIGR64.png",
         "url_png_logo": "https://raw.githubusercontent.com/christobear/Misc/main/Images/TIGR.png",
-        "location": "New York, USA",
+        "location": "USA",
         "social": {
             "twitter_handle": ""
         },
         "company": {
-            "city": "New York",
+            "city": "",
             "country": "USA"
         },
         "about": {
