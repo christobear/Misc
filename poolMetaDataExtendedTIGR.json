@@ -2,24 +2,8 @@
     "info": {
         "url_png_icon_64x64": "https://bit.ly/45a1L37",
         "url_png_logo": "https://bit.ly/3KDEWwf",
-        "location": "USA",
         "social": {
-            "twitter_handle": "realadayield",
-            "telegram_handle": "adayield",
             "youtube_handle": "@mr_williamtiger"
-        },
-        "company": {
-            "city": "",
-            "country": "USA"
-        },
-        "about": {
-            "me": "TIGR is supporting cardano decentralization"
         }
-    },
-    "my-pool-ids": {
-        "0": "462c87ae435aa565744e69efbf929b1f7117da18558e23a127ce083e"
-    },
-    "when-satured-then-recommend": {
-        "0": ""
     }
 }
