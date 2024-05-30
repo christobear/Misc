@@ -1,0 +1,23 @@
+{
+    "info": {
+        "url_png_icon_64x64": "",
+        "url_png_logo": "",
+        "location": "",
+        "social": {
+            "twitter_handle": ""
+        },
+        "company": {
+            "city": "",
+            "country": ""
+        },
+        "about": {
+            "me": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": ""
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
