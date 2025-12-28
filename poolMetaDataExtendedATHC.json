@@ -1,0 +1,18 @@
+{
+    "info": {
+        "location": "India",
+        "company": {
+            "city": "",
+            "country": "India"
+        },
+        "about": {
+            "me": ""
+        }
+    },
+    "my-pool-ids": {
+        "0": ""
+    },
+    "when-satured-then-recommend": {
+        "0": ""
+    }
+}
