@@ -2,13 +2,11 @@
   "info": {
     "url_png_icon_64x64": "https://raw.githubusercontent.com/christobear/Misc/main/Images/athc64.png",
     "url_png_logo": "https://raw.githubusercontent.com/christobear/Misc/main/Images/athc.png",
-    "location": "India",
-    "company": {
-      "name": "AtherChain",
-      "country": "India"
-    },
-    "about": {
-      "me": "AtherChain (ATHC) is a professionally operated Cardano stake pool focused on reliability, transparency, and long-term network health."
+    "location": "India"
+  },
+  "pool": {
+    "media_assets": {
+      "logo_svg": "https://raw.githubusercontent.com/christobear/Misc/main/Images/athc64.svg"
     }
   }
 }
